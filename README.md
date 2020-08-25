@@ -1,5 +1,6 @@
 ### Hallo hallo, my name is Cristhian
 #### Lead Frontend Developer
+<img align ="right" src = "https://i.imgur.com/58RFigM.png" width="150" height="150">
 actively contributing to the development of the angular community in Berlin
 
 - 🔭 I’m currently working on enterprise-level applications 
