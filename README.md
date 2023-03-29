@@ -6,7 +6,7 @@ actively contributing to the development of the open source community in Berlin
 - 🔭 I’m currently working on enterprise-level applications 
 - 🌱 I’m currently learning OPA, NATS, Go and VueJS 
 - 🤔 I’m looking for help with frontend applications using homomorphic encryption 
-- 💬 Ask me about Frontend Architecture and encryption  
+- 💬 Ask me about Architecture solutions and encryption  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lithqube)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/lithqube)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dev_ferru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@cristhianfe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/slideshare.svg' alt='slideshare' height='40'>](https://www.slideshare.net/cristhianferrufino)  
 
